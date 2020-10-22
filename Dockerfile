@@ -1,4 +1,5 @@
 FROM ubuntu
+MAINTAINER David Nightingale-Ewing <david.ewing12@googlemail.com>
 
 ENV APP_NAME="Steam" \
     TESTING="Hello World"
